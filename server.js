@@ -22,6 +22,11 @@ const rappers = {
 		'birthName': 'Dylan',
 		'birthLocation': 'Dylan',
 	},
+	'dr. shredder': {
+		'age': 34,
+		'birthName': 'T Unit',
+		'birthLocation': 'J-Town',
+}
 }
 
 app.get('/', (request, response) => {
