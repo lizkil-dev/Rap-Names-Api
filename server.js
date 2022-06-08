@@ -26,6 +26,11 @@ const rappers = {
 		'age': 34,
 		'birthName': 'T Unit',
 		'birthLocation': 'J-Town',
+	},
+	'mr. muscle': {
+		'age': 30,
+		'birthName': 'strong',
+		'birthLocation': 'J-Town',
 }
 }
 
