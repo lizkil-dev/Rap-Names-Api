@@ -1,8 +1,7 @@
 # 100Devs Rapper API
+ A webpage showing off name information about a rapper
 
 ### Link to project: https://lizkil-rap-names-api.herokuapp.com/
-
-### A webpage showing off information about a rapper
 
 ### Tech used: HTML, JavaScript, Node
 I built out a simple HTML frontend and a server to serve all of the static files like CSS and JavaScript files. I tested the API with Postman. The API serves JSON data to the frontend and displays it on the DOM.
